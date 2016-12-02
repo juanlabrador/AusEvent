@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "984632022554",
+    "firebase_url": "https://auspost-companio-1477537352673.firebaseio.com",
+    "project_id": "auspost-companio-1477537352673",
+    "storage_bucket": "auspost-companio-1477537352673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984632022554:android:42288875d7db61bc",
+        "android_client_info": {
+          "package_name": "com.conducthq.auspost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984632022554-0as9qpsfvd2ilulk468n0eaa1rb91vgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5p6wb6OznhsKMLc2FTJ6ZzKWBqdQuaRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

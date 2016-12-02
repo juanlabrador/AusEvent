@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_66f5b984540098c9557bb5a2c6346150313fdf62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/auspost_companionapp_android/crop-image-lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="484d3065f0878b9baf201a60607d212b8bf13c73">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/auspost_companionapp_android-crop-image-lib-unspecified_1f31292fbb724eaee5834a93252aa944b18e2d0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_71a46cb02504efb7398d250bb648a05e7f2a1bcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_bb003dc5a1a403429edefa4f26dd213e98490b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_33e812142919c0a01b6db63fa37c9d6e939704d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_ac767cd4f196b8f922a5ab89b3af3a5edfd48e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/uk.co.chrisjenx/calligraphy/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/uk.co.chrisjenx-calligraphy-2.2.0_603e2dee141f4adb054dae96c310da83426f71ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_705979be88890a8c68d69e187c335ac6ccca8a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cb2c7fa3da1f085e499b4b6fbac268cc58b86d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/gson-2.7_4adabcf6d253862b23384203ad854f2b3190bc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_9efe28559469235acb0eac35daaffe9544067b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_6564cf7975c5dc4bd326441f8d58d580b1aaf448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.8.0_66432f2958f809187b35f62a772a1d8657fca07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6610b802e93de87301d1241bf4131509d959790">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.dlazaro66.qrcodereaderview-qrcodereaderview-2.0.1_9ca442cc804102f2677bcafb12338e7ee70de070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a52973d12939c2efbea0918471cdd138ffb7ad2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_c4c4381cf28331de61bbe486cb1b8913752668ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_274f37814980b4845181a4138c40b53d0f2ef3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_d8c31ee927e27d149ddc99ab689c6e0906ab1b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_8aecddabdbe59b75bda7cd269f581211d74dc38b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/core-3.2.1_5bcd9e5f2db2b51227207fc70ba2e2c4d1a48dda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_fc126579dfe9134cd37b80cd8f3866bb36879168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_7866468733efb54c40278e119d7e92cf0bd5db26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.roughike-bottom-bar-2.0.2_130431690caaa4c9009109c6be8237d14186a1cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_37cee75cc32b9be7444cbefefdf75aacb8dca332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_d5b1bdec5612a1c0a6d7ff067578debc59e40c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/jp.wasabeef/glide-transformations/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/jp.wasabeef-glide-transformations-2.0.1_30b7083277791f86b7d5c0d15dc92ef64fe79dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.wang.avi/library/2.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-2.1.3_ea86f51c6f8a9b18e73228f1a06c4b680007dcfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_118e5f5aa29d12b8686b0a3c87c90e9ad1cb7cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e227f9bac1d473406048fb00d8b061b6b9078c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_522476b457f34106695d1813b59c8d9a800edd7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_ba11f79522ad683708fcbf6a0d083929927c57c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_d187f594af0e3fb8ec40c8f91656e25748f26474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.mikhaellopez-circularimageview-3.0.2_db2697144a256a070557c094fda2ff3a5dc3c4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.github.aakira/expandable-layout/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3cef25b344d6893e5e2d9b1ae38d180955e9d3ef">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.github.aakira-expandable-layout-1.6.0_24f294cbdd5d32006501ee40e4d8258cbeda5d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_5d38aa8b4c5e515963059c95a5787c2ea9f521e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_298747e524a095e7167fdfb25a1916853fd588c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_463fd17ce86157456c5d0b1e78eff6eb619612a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_d81b98a90316d421d76010a1997f098ca2acd315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_513e9f71f69bf0fd1eb0bc1198a5093e99428425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c9b1a2e8c13f81638d1927f8084a2ad06d12fcf">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.1_91f5445c8377deead81f4ae1cd79f50f01934ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_23f6f68ec2313936d262c4aeb2fe4e5d212b5e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_115013e639f115ef759fcc3df5308d8710a84530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_76643f8d529d2749bc8addd194a767e737cd2900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/glide-3.7.0_768f211e56e66040be0fc583f3407d1fad0f43bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_bfb74947724a5be6b0cd8ee2cfed17bf4d5da5c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_72566f8cd5459ce9f8d56be12a4c1caa33084428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.bignerdranch.android/simple-item-decoration/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1a62429715305b2b05a9036ec3a7d7023466313">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.bignerdranch.android-simple-item-decoration-1.0.0_ebeaa038955afb5e252dbf84a74d851917ad3540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_aa9ecc69044c3989e7e3b9532947601b98be7908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/juanlabrador/Documentos/android-projects/auspost_companionapp_android/auspost_companionapp_android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_b7b20ddd09804920058341adbddea4f81c653c8b.jar" />
+    </item>
+
+</items>
